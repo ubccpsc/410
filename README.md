@@ -10,5 +10,7 @@ CPSC is not currently scheduled.
 
 ### Past Terms ###
 
-* [2016 September](http://www.ugrad.cs.ubc.ca/~cs410/)
-
+* [2015 September](http://www.ugrad.cs.ubc.ca/~cs410/archive/2015W1/)
+* [2014 September](http://www.ugrad.cs.ubc.ca/~cs410/archive/2014W1/)
+* [2013 September](http://www.ugrad.cs.ubc.ca/~cs410/archive/2013W1)
+* [2012 September](http://www.ugrad.cs.ubc.ca/~cs410/archive/2012/) 

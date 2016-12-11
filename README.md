@@ -1,12 +1,8 @@
 # UBC CPSC 410 #
 
-### Current Term ###
-
-There is no current offering of CPSC 410.
-
 ### Upcoming Term ###
 
-CPSC is not currently scheduled.
+* [2017 January](https://github.com/ubccpsc/410/tree/2017jan)
 
 ### Past Terms ###
 

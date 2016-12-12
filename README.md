@@ -1,8 +1,12 @@
 # UBC CPSC 410 #
 
-### Upcoming Term ###
+### Current Term ###
 
 * [2017 January](https://github.com/ubccpsc/410/tree/2017jan)
+
+### Upcoming Term ###
+
+* None currently scheduled.
 
 ### Past Terms ###
 

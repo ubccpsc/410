@@ -6,7 +6,14 @@ January 2017 -> April 2017 (```2016T2```)
 
 ## Overview
 
-TBD. 
+Specification, Design, Construction and Validation of Multi-Version Software Systems. 
+
+When you have completed this course, you should be able to:
+
+* Understand the benefits and disadvantages of various architectures for constructing large, multi-version, multi-component software systems.
+* Apply software verification and validation techniques to the analysis of such projects.
+* Demonstrate ability in building a large, complex software project using modern software engineering technologies.
+* Communicate your architectural rationale, and provide insight into requirements traceability to code.
 
 ## Contact
 

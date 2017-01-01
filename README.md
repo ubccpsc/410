@@ -71,7 +71,7 @@ details on what time of day and in what format each deliverable must
 be provided.
 
 | Date  | Deliverable | Project Grade % |
-| :--         |:--  
+| :--         | :-- | :--        |
 
 *Details: TBD*
 

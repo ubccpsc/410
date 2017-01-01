@@ -6,7 +6,8 @@ January 2017 -> April 2017 (```2016T2```)
 
 ## Overview
 
-Specification, Design, Construction and Validation of Multi-Version Software Systems. 
+Specification, Design, Construction and Validation of Multi-Version
+Software Systems.
 
 When you have completed this course, you should be able to:
 
@@ -17,8 +18,8 @@ When you have completed this course, you should be able to:
 
 ## Contact
 
-#### Instructor: TBD
-#### Office hours: TBD
+#### Instructor: To start, [Gail Murphy](https://blogs.ubc.ca/gailcmurphy/)
+#### Office hours: January 11 11am-12pm ICICS 305, or email murphy at cs.ubc.ca for an appointment
 
 #### TAs:
 
@@ -29,7 +30,7 @@ When you have completed this course, you should be able to:
 
 #### Lecture: 
 
-Thursdays 1700-2000, Room TBD
+Thursdays 1700-2000, Assume DMP 301 for now but check back for changes
 
 This list is a rough guide only. Readings will likely be updated even after class has completed.
 
@@ -63,12 +64,28 @@ TBD
 
 ## Project Schedule
 
+*Overview*
 
-TBD
+This table provides an overview of the due dates. See below for
+details on what time of day and in what format each deliverable must
+be provided.
+
+| Date	   | Deliverable | Project Grade % |
+| Jan 5	   | 0. Background | Pass/Fail |
+| Jan 12   | 1. Group Formation | Pass/Fail |
+| Jan 25/26   | 2. Project Proposal & Presentation | 10% |
+| Mar 8	      | 3. Architecture Oral Exam | 27.5% |
+| Mar 9	      | 4. Prototype Demo | 10% |
+| Mar 9	      | 4*. App Reviews	  | 1.5% individual |
+| Apr 5/6     | 5. Testing & Reflection Oral Exam | 27.5% |
+| Apr 6	      | 6. Project Presentation & Video | 20% |
+| Apr 6	      | 6*. App Reviews | 1% |
+
+*Details: TBD*
 
 ## Grading
 
-TBD
+
 
 To pass the course and receive credit you must achieve a passing grade on *both* the project and the final exam. Sample midterm and final exams will not be available.
 

@@ -71,6 +71,7 @@ details on what time of day and in what format each deliverable must
 be provided.
 
 | Date	   | Deliverable | Project Grade % |
+| :--         |:--  
 | Jan 5	   | 0. Background | Pass/Fail |
 | Jan 12   | 1. Group Formation | Pass/Fail |
 | Jan 25/26   | 2. Project Proposal & Presentation | 10% |

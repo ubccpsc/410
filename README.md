@@ -70,7 +70,7 @@ This table provides an overview of the due dates. See below for
 details on what time of day and in what format each deliverable must
 be provided.
 
-| Date	   | Deliverable | Project Grade % |
+| Date  | Deliverable | Project Grade % |
 | :--         |:--  
 | Jan 5	   | 0. Background | Pass/Fail |
 | Jan 12   | 1. Group Formation | Pass/Fail |
@@ -78,9 +78,6 @@ be provided.
 | Mar 8	      | 3. Architecture Oral Exam | 27.5% |
 | Mar 9	      | 4. Prototype Demo | 10% |
 | Mar 9	      | 4*. App Reviews	  | 1.5% individual |
-| Apr 5/6     | 5. Testing & Reflection Oral Exam | 27.5% |
-| Apr 6	      | 6. Project Presentation & Video | 20% |
-| Apr 6	      | 6*. App Reviews | 1% |
 
 *Details: TBD*
 

@@ -72,12 +72,6 @@ be provided.
 
 | Date  | Deliverable | Project Grade % |
 | :--         |:--  
-| Jan 5	   | 0. Background | Pass/Fail |
-| Jan 12   | 1. Group Formation | Pass/Fail |
-| Jan 25/26   | 2. Project Proposal & Presentation | 10% |
-| Mar 8	      | 3. Architecture Oral Exam | 27.5% |
-| Mar 9	      | 4. Prototype Demo | 10% |
-| Mar 9	      | 4*. App Reviews	  | 1.5% individual |
 
 *Details: TBD*
 

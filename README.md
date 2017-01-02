@@ -106,9 +106,9 @@ be provided.
 | :--         | :-- | :--        
 | Jan 5, end of class | 0. Background | Pass/Fail |
 | Jan 12, 11:59pm | 1. Group Formation | Pass/Fail |
-| Jan 25, 11:59pm | 2. Project Proposal | 10% (with presentation |
+| Jan 25, 11:59pm | 2. Project Proposal | 10% (with presentation) |
 | Jan 26, in class | 2. Project Presentation | see above |
-| Jan 26, 11:59pm | 2+. App Reviews | 1.5% (individual |
+| Jan 26, 11:59pm | 2+. App Reviews | 1.5% (individual) |
 | Mar 8, 11:59pm | 3. Architecture Exam (written part) | 27.5% (with oral part) |
 | Mar 9,10,13,14,15,16, TBD | 3. Oral part | (see above) |
 | Mar 9, in class | 4. Prototype Demo | 10% |
@@ -122,19 +122,20 @@ be provided.
 
 ## Grading
 
+| % of Final Exam | Component |
+| :-- | :-- |
+| 50% | Project |
+| 10% | Midterm |
+| 40% | Final Exam |
 
-
-To pass the course and receive credit you must achieve a passing grade on *both* the project and the final exam. Sample midterm and final exams will not be available.
-
+To pass the course and receive credit you must achieve a passing grade on *both* the project and the final exam. Sample midterm and final exams will not be available. 
 
 ## Policies
 
 <a name="waitlist"></a>
 ### Waitlist
 
-There is extremely high demand for this course this term. If you are on the waitlist and wish to join the class, please come to the front after **EVERY** class to sign in. Those students who have signed into every class by the add/drop date will be forwarded to the advisors who will insert students into available spots by the add/drop deadline. This does not guarantee you will be admitted, but without signing in every class you will not be eligible. Students on the waitlist should not form groups with students who are already enrolled in case your whole group does not make it into the course this term. Unfortunately, the instructor is not able to override class seat assignments or the waitlist itself.
-
-If you are on the waitlist you should still attend and sign into a lab section so you understand what is happening in the course, and so you do not miss out on the lab attendance marks.
+There is extremely high demand for this course this term. If you are on the waitlist and wish to join the class, please come to the front after **EVERY** class to sign in. Those students who have signed into the first class will be forwarded to the advisors who will insert students into available spots by the group formation deadline (Jan 11/12). This does not guarantee you will be admitted, but without signing in you will not be eligible. Students on the waitlist should not form groups with students who are already enrolled in case your whole group does not make it into the course this term. Unfortunately, the instructor is not able to override class seat assignments or the waitlist itself.
 
 ### Late Submissions
 

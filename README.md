@@ -104,8 +104,19 @@ be provided.
 
 | Date  | Deliverable | Project Grade % |
 | :--         | :-- | :--        
-| Jan 5, end of class | Background | Pass/Fail |
-| Jan 12, 11:59pm | Group Formation | Pass/Fail |
+| Jan 5, end of class | 0. Background | Pass/Fail |
+| Jan 12, 11:59pm | 1. Group Formation | Pass/Fail |
+| Jan 25, 11:59pm | 2. Project Proposal | 10% (with presentation |
+| Jan 26, in class | 2. Project Presentation | see above |
+| Jan 26, 11:59pm | 2+. App Reviews | 1.5% (individual |
+| Mar 8, 11:59pm | 3. Architecture Exam (written part) | 27.5% (with oral part) |
+| Mar 9,10,13,14,15,16, TBD | 3. Oral part | (see above) |
+| Mar 9, in class | 4. Prototype Demo | 10% |
+| Mar 9, 11:59pm | 4+. App Reviews | 1.5% (individual) |
+| TBD | 5. Testing & Reflection Oral Exam | 27.5% (with oral part) |
+| TBD | 5. (Oral part) | see above |
+| Apr 6, TBD | 6. Project Presentation & Video | 20% |
+| Apr 6, 11:59pm | 6+. App Reviews | 1% (individual) |
 
 *Details: TBD*
 

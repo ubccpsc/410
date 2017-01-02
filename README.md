@@ -117,7 +117,11 @@ be provided.
 | Apr 6, TBD | 6. Project Presentation & Video | 20% |
 | Apr 6, 11:59pm | 6+. App Reviews | 1% (individual) |
 
-*Details: TBD*
+*Details*
+
+0. Background (Due Jan 5, end of class)
+
+Please complete [this form](http://www.cs.ubc.ca/~murphy/410-Deliverable0-Background.pdf) and hand it in at the end of class.
 
 ## Grading
 

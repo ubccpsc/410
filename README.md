@@ -119,11 +119,11 @@ be provided.
 
 *Details*
 
-* 0. Background (Due Jan 5, end of class)
+_0. Background (Due Jan 5, end of class)_
 
 Please complete [this form](http://www.cs.ubc.ca/~murphy/410-Deliverable0-Background.pdf) and hand it in at the end of class.
 
-* 1. Group Formation (Due Jan 12, 11:59pm by email)
+_1. Group Formation (Due Jan 12, 11:59pm by email)_
 
 Email cs410 at ugrad.cs.ubc.ca with the names and student ids of each member of your group. There must be 4 members in your group unless you have spoken to the instructor.
 

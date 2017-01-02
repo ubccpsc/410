@@ -63,7 +63,7 @@ TBD
 The project forms an integral part of this course. The goal of the project is to produce a significant mobile app that performs some useful function. This software must have a considered and defensible architecture. There are only a few restrictions on the app idea itself, in particular, the app 
 
 * has to be a mobile app and you have to demo your app on a mobile device (iOS, Android, BB10, WP8, or FirefoxOS) 
-* has to Interact with a server with a REST API that you created
+* has to interact with a server with a REST API that you created
 * cannot just be a database management app (e.g., simple CRUD apps that do not make sense in a mobile context)
 * cannot be an app that requires crowd buy-in (e.g., apps that would require large numbers of people to contribute content to be viably useful)
  
@@ -103,7 +103,9 @@ details on what time of day and in what format each deliverable must
 be provided.
 
 | Date  | Deliverable | Project Grade % |
-| :--         | :-- | :--        |
+| :--         | :-- | :--        
+| Jan 5, end of class | Background | Pass/Fail |
+| Jan 12, 11:59pm | Group Formation | Pass/Fail |
 
 *Details: TBD*
 

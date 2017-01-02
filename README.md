@@ -51,8 +51,7 @@ This list is a rough guide only. Readings will likely be updated even after clas
 | Mar 30      | TBD | 
 | Apr 6       | TBD | 
 
-[Piazza](https://piazza.com/) has not yet been configured for this term. Please be mindful of the UBC Academic Misconduct Policy with respect to posting project solutions and when interacting with your peers and course staff. We will do our best to be involved in Piazza discussions but will be most responsive during the week.
-
+[Piazza](https://piazza.com/) has been configured for this term. Please be mindful of the UBC Academic Misconduct Policy with respect to posting project solutions on Piazza.
 
 #### TA Office Hours
 

@@ -36,9 +36,9 @@ This list is a rough guide only. Readings will likely be updated even after clas
 
 | Date        | Topics (may span multiple lectures)         |
 | :--         |:--                                          | 
-| Jan 5       | TBD|
-| Jan 12      | TBD |
-| Jan 19      | TBD |
+| Jan 5       | Introduction & Specifications |
+| Jan 12      | Specifications cont. |
+| Jan 19      | Modularity & Decomposition |
 | Jan 26      | TBD |
 | Feb 2       | TBD |
 | Feb 9       | TBD |
@@ -60,7 +60,39 @@ TBD
 
 ## Project
 
-TBD
+The project forms an integral part of this course. The goal of the project is to produce a significant mobile app that performs some useful function. This software must have a considered and defensible architecture. There are only a few restrictions on the app idea itself, in particular, the app 
+
+* has to be a mobile app and you have to demo your app on a mobile device (iOS, Android, BB10, WP8, or FirefoxOS) 
+* has to Interact with a server with a REST API that you created
+* cannot just be a database management app (e.g., simple CRUD apps that do not make sense in a mobile context)
+* cannot be an app that requires crowd buy-in (e.g., apps that would require large numbers of people to contribute content to be viably useful)
+ 
+You can use any libraries you wish.
+ 
+After the prototype demo, we will provide a 'pivot' to each group; this will consist of a new or modified requirement for your app that you will have to include for the final demo (and write about in the architecture and design deliverable).
+
+The projects will be completed in teams of four. You are free to select your own team; if you do not have a team or your team has less than four members, please talk to the instructor.
+
+Projects will have a difficulty scale applied to them by the instructor and TAs. The scale formula will be: 
+
+(project + bonus) * scale + individual = final project grade
+
+Scale will range between 0.75 and 1.0. The components of the scaling mark will be determined by:
+
+* 5: completeness (compared to proposal)
+* 5: utility
+* 5: polish
+* 10: difficulty
+
+The individual part makes up 4% of the project and corresponds to the individual user reviews for the other apps. There will also be various sources of bonus marks during the term; each will be worth 2%:
+
+* Best pitch
+* Best prototype demo
+* Best final demo
+* Accepted to curated App Store (iOS, Blackberry, Windows Phone)
+ 
+NOTE: The expectation is that you will work approximately 12 hours per week on this course; at least 5 of these hours should be on the project. Given that the course lasts 13 weeks, each team member is expected to work on the project at least 65 hours. You should be able to accomplish something pretty great in this time; please make the most of this opportunity. While lines of code is a terrible metric, no past project has been less than 5 KLOC and most range between 10-20 KLOC.
+
 
 ## Project Schedule
 

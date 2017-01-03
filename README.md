@@ -115,7 +115,7 @@ be provided.
 | TBD | 5. Testing & Reflection Oral Exam | 27.5% (with oral part) |
 | TBD | 5. (Oral part) | see above |
 | Apr 6, TBD | 6. Project Presentation & Video | 20% |
-| Apr 6, 11:59pm | 6+. App Reviews | 1% (individual) |
+| Apr 6, 11:59pm | 6+. App Reviews | 2% (individual) |
 
 *Details*
 

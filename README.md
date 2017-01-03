@@ -125,7 +125,7 @@ Please complete [this form](http://www.cs.ubc.ca/~murphy/410-Deliverable0-Backgr
 
 _1. Group Formation (Due Jan 12, 11:59pm by email)_
 
-Email cs410 at ugrad.cs.ubc.ca with the names and student ids of each member of your group. There must be 4 members in your group unless you have spoken to the instructor.
+Email cs410 at ugrad.cs.ubc.ca with the names, CS ugrad id and GitHub ids of each member of your group. There must be 4 members in your group unless you have spoken to the instructor.
 
 *More soon*
 

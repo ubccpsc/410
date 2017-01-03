@@ -30,7 +30,7 @@ When you have completed this course, you should be able to:
 
 #### Lecture: 
 
-Thursdays 1700-2000, Assume DMP 301 for now but check back for changes
+Thursdays 1700-2000, DMP 301 except for Thursday Jan 12 when it is in FSC 1001
 
 This list is a rough guide only. Readings will likely be updated even after class has completed.
 

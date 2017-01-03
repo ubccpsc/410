@@ -55,7 +55,7 @@ This list is a rough guide only. Readings will likely be updated even after clas
 
 #### TA Office Hours
 
-Daniel Almeida: Tuesday 10-11am and Thursday 3:30-4:30pm, location TBD
+Daniel Almeida: Tuesday 10-11am and Thursday 3:30-4:30pm,  ICCS X139
 Arthur Marques: Monday & Wednesday, 3:10-4:10pm, ICCS X151
 
 ## Project

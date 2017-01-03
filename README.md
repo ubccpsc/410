@@ -74,7 +74,7 @@ The projects will be completed in teams of four. You are free to select your own
 
 Projects will have a difficulty scale applied to them by the instructor and TAs. The scale formula will be: 
 
-(project + bonus) * scale + individual = final project grade
+(group project + bonus) * scale + individual = final project grade
 
 Scale will range between 0.75 and 1.0. The components of the scaling mark will be determined by:
 

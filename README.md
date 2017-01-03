@@ -83,7 +83,7 @@ Scale will range between 0.75 and 1.0. The components of the scaling mark will b
 * 5: polish
 * 10: difficulty
 
-The individual part makes up 4% of the project and corresponds to the individual user reviews for the other apps. There will also be various sources of bonus marks during the term; each will be worth 2%:
+The individual part makes up 5% of the project and corresponds to the individual user reviews for the other apps. There will also be various sources of bonus marks during the term; each will be worth 2%:
 
 * Best pitch
 * Best prototype demo
@@ -137,7 +137,7 @@ Email cs410 at ugrad.cs.ubc.ca with the names and student ids of each member of 
 | 10% | Midterm |
 | 40% | Final Exam |
 
-To pass the course and receive credit you must achieve a passing grade on *both* the project and the final exam. Sample midterm and final exams will not be available. 
+To pass the course and receive credit you must achieve a passing grade on *each of* the project and the final exam. You must also pass all pass/fall parts of the project. Sample midterm and final exams will not be available. 
 
 ## Policies
 

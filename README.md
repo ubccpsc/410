@@ -55,7 +55,7 @@ This list is a rough guide only. Readings will likely be updated even after clas
 
 #### TA Office Hours
 
-TBD
+Arthur Marques: Monday & Wednesday, 3:10-4:10pm, ICCS X151
 
 ## Project
 

@@ -84,7 +84,7 @@ Scale will range between 0.75 and 1.0. The components of the scaling mark will b
 * 5: polish
 * 10: difficulty
 
-The individual part makes up 5% of the project and corresponds to the individual user reviews for the other apps. There will also be various sources of bonus marks during the term; each will be worth 2%:
+The individual part makes up 4% of the project and corresponds to the individual user reviews for the other apps. There will also be various sources of bonus marks during the term; each will be worth 2%:
 
 * Best pitch
 * Best prototype demo
@@ -109,14 +109,14 @@ be provided.
 | Jan 25, 11:59pm | 2. Project Proposal | 10% (with presentation) |
 | Jan 26, in class | 2. Project Presentation | see above |
 | Jan 26, 11:59pm | 2+. App Reviews | 1.5% (individual) |
-| Mar 8, 11:59pm | 3. Architecture Exam (written part) | 27.5% (with oral part) |
+| Mar 8, 11:59pm | 3. Architecture Exam (written part) | 28% (with oral part) |
 | Mar 9,10,13,14,15,16, TBD | 3. Oral part | (see above) |
 | Mar 9, in class | 4. Prototype Demo | 10% |
 | Mar 9, 11:59pm | 4+. App Reviews | 1.5% (individual) |
-| TBD | 5. Testing & Reflection Oral Exam | 27.5% (with oral part) |
+| TBD | 5. Testing & Reflection Oral Exam | 28% (with oral part) |
 | TBD | 5. (Oral part) | see above |
 | Apr 6, TBD | 6. Project Presentation & Video | 20% |
-| Apr 6, 11:59pm | 6+. App Reviews | 2% (individual) |
+| Apr 6, 11:59pm | 6+. App Reviews | 1% (individual) |
 
 *Details*
 

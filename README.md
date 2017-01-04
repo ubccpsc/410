@@ -113,10 +113,11 @@ be provided.
 | Mar 9,10,13,14,15,16, TBD | 3. Oral part | (see above) |
 | Mar 9, in class | 4. Prototype Demo | 10% |
 | Mar 9, 11:59pm | 4+. App Reviews | 1.5% (individual) |
-| TBD | 5. Testing & Reflection Oral Exam | 28% (with oral part) |
-| TBD | 5. (Oral part) | see above |
-| Apr 6, TBD | 6. Project Presentation & Video | 20% |
-| Apr 6, 11:59pm | 6+. App Reviews | 1% (individual) |
+| Mar 29, 11:59pm | 5. Testing & Reflection Oral Exam | 28% (with oral part) |
+| Mar 30,31, Apr 3,4,5 | 5. (Oral part) | see above |
+| Mar 30, in c | 6. Project Presentation | 15% |
+| Mar 30, 11:59pm | 6+. App Reviews | 1% (individual) |
+| Apr 5, 11:59pm | 7. Project Video (60 to 90 seconds) | 5% |
 
 *Details*
 
